@@ -148,7 +148,7 @@ export default {
         const text =
 `🟢🟢🟢 库存更新 🟢🟢🟢
 
-【${escapeHTML(country)}】
+${escapeHTML(country)}
 
 📦 添加库存 ${escapeHTML(add)} 个
 
