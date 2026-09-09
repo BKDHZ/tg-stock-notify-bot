@@ -1,0 +1,7 @@
+name = "tg-stock-notify-bot"
+
+main = "worker.js"
+
+compatibility_date = "2026-09-09"
+
+workers_dev = true
