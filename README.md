@@ -1,4 +1,3 @@
-# tg-stock-notify-bot
 # TG Stock Notify Bot
 
 Cloudflare Worker + Telegram 库存通知机器人
